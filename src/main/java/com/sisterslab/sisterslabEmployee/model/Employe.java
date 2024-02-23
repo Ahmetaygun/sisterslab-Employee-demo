@@ -12,8 +12,6 @@ public class Employee {
     private String name;
     private String designation;
 
-    // Getter ve Setter metotları burada olacak
-
     public Long getId() {
         return id;
     }
